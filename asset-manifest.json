@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/cars-websites/static/css/main.447c98cb.css",
+    "main.js": "/cars-websites/static/js/main.7f2045b4.js",
+    "static/media/service.jpg": "/cars-websites/static/media/service.4079385ab0bd066026ed.jpg",
+    "static/media/products.jpg": "/cars-websites/static/media/products.0d747a8dff3bd0a0aa3c.jpg",
+    "static/media/mstng-3.jpg": "/cars-websites/static/media/mstng-3.6cc73d6efb234478de43.jpg",
+    "static/media/sign-up.jpg": "/cars-websites/static/media/sign-up.17d02dde79ec43c04082.jpg",
+    "index.html": "/cars-websites/index.html",
+    "main.447c98cb.css.map": "/cars-websites/static/css/main.447c98cb.css.map",
+    "main.7f2045b4.js.map": "/cars-websites/static/js/main.7f2045b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.447c98cb.css",
+    "static/js/main.7f2045b4.js"
+  ]
+}
